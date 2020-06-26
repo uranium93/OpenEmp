@@ -1,21 +1,21 @@
 [submodule "packages/openemp-ui-dashboard"]
 	path = packages/openemp-ui-dashboard
-	url = https://github.com/honohunter/openemp-ui-dashboard.git
+	url = https://github.com/uranium93/openemp-ui-dashboard.git
 [submodule "packages/openemp-ui-drawer"]
 	path = packages/openemp-ui-drawer
-	url = https://github.com/honohunter/openemp-ui-drawer.git
+	url = https://github.com/uranium93/openemp-ui-drawer.git
 [submodule "packages/openemp-ui-login"]
 	path = packages/openemp-ui-login
-	url = https://github.com/honohunter/openemp-ui-login.git
+	url = https://github.com/uranium93/openemp-ui-login.git
 [submodule "packages/openemp-ui-navbar"]
 	path = packages/openemp-ui-navbar
-	url = https://github.com/honohunter/openemp-ui-navbar.git
+	url = https://github.com/uranium93/openemp-ui-navbar.git
 [submodule "packages/openemp-ui-root-config"]
 	path = packages/openemp-ui-root-config
-	url = https://github.com/honohunter/openemp-ui-root-config.git
+	url = https://github.com/uranium93/openemp-ui-root-config.git
 [submodule "packages/openemp-ui-styleguide"]
 	path = packages/openemp-ui-styleguide
-	url = https://github.com/honohunter/openemp-ui-styleguide.git
+	url = https://github.com/uranium93/openemp-ui-styleguide.git
 [submodule "packages/openemp-ui-template"]
 	path = packages/openemp-ui-template
-	url = https://github.com/honohunter/openemp-ui-template.git
+	url = https://github.com/uranium93/openemp-ui-template.git
